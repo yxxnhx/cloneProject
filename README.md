@@ -28,7 +28,7 @@
 
 ## 🚀 Result
 
-![kichen-result](/kichen-incubator-clone/img/kichen-result.png)
+![kichen-result](./img/kichen-result.png)
 <br />
 
 ## 📍 Review
