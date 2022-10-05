@@ -1,3 +1,3 @@
-# yxxnhx
-# yxxnhx
-# yxxnhx
+# 키친 인큐베이터
+
+HTML, CSS 연습을 위해 클론코딩을 진행하였습니다.
